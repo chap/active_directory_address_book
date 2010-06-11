@@ -1,0 +1,7 @@
+default_login: username
+default_password: password
+host: backup.home.example.net
+port: 389
+domain: home.example.net
+dn: ou=employee accounts,dc=home,dc=example,dc=net
+company: example
